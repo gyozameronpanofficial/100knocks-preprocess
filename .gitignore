@@ -20,7 +20,11 @@ dist/
 # データファイル
 data/*.csv
 data/*.xlsx
+data/
 *.zip
+
+# ノートブックファイル
+notebooks/
 
 # IDEs
 .vscode/
